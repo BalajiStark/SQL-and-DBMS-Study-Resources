@@ -40,7 +40,7 @@ Stay updated with **jobs**, **internships**, and **interview preparation materia
 ### 📘 [Telegram Channel for Notes & Interview Prep Materials](https://telegram.me/staylearner)  
 ### 📸 [Follow us on Instagram for Coding Notes & More](https://www.instagram.com/coders_notes/)
 
----
+--
 
 Thank you for being a part of this learning journey! 😊 Your contribution to this repo, whether it's a star ⭐, sharing with others, or submitting a pull request, means a lot to us. Let's grow together! 💪
 
